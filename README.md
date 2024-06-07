@@ -62,7 +62,7 @@ Project Link:(https://github.com/DoctorOla/simple_linear_regression_model_with_p
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-I would like to acknowledge all my colleague, my coach who is also my mentor. I would like to say a big thank you to plural code for the opportunity and the platform.
+I would like to acknowledge all my colleagues from plura code academy, my coach (Abdulkudus Abogun) who is also my mentor. I would like to say a big thank you to plural code for the opportunity and the platform to build a community I can really on.
 
 * [Choose an Open Source License](https://choosealicense.com)
 
